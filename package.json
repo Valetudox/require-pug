@@ -1,0 +1,22 @@
+{
+  "name": "require-pug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valetudox/require-pug.git"
+  },
+  "author": "Viktor Somodi <viktor.somodi@emarsys.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valetudox/require-pug/issues"
+  },
+  "homepage": "https://github.com/Valetudox/require-pug#readme",
+  "dependencies": {
+    "pug": "0.1.0"
+  }
+}
